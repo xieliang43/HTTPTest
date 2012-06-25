@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'HTTPTest' target in the 'HTTPTest' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
